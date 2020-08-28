@@ -62,6 +62,7 @@ public class CreateUser extends javax.swing.JFrame {
         successMsg = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Inspector System");
 
         background.setBackground(new java.awt.Color(84, 91, 89));
 

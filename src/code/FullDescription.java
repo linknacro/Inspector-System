@@ -35,6 +35,7 @@ public class FullDescription extends javax.swing.JFrame {
         descriptionArea = new javax.swing.JTextArea();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Full Description");
 
         descriptionArea.setEditable(false);
         descriptionArea.setColumns(20);
