@@ -28,6 +28,5 @@ that task.
 ![snap8](https://github.com/linknacro/Inspector-System/blob/master/previews/snap8.png)
 
 ## Current Stage of Development
-The application is not ready to for release yet. Currently, the application connects to my database using my IPv4 address, which means that another laptop can only connect to my
-databse if we connect to same local network. Eventually, this application will be hosted on my company's server, and the users will be able to access the database through the 
+The application is not ready for the release yet. Currently, the application connects to my database using my IPv4 address, which means that another laptop can only connect to my databse if we connect to same local network. Eventually, this application will be hosted on my company's server, and the users will be able to access the database through the 
 internet instead local area network.
