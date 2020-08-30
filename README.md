@@ -16,7 +16,7 @@ that task.
 ![snap2](https://github.com/linknacro/Inspector-System/blob/master/previews/snap2.png)
 #### *Assigning a new task to an inspector:*  
 ![snap3](https://github.com/linknacro/Inspector-System/blob/master/previews/snap3.png)
-#### *Assigning a new task to an inspector:*  
+#### *Viewing the tasks tables as an administrator:*  
 ![snap4](https://github.com/linknacro/Inspector-System/blob/master/previews/snap4.png)
 #### *Viewing the full description of a task:*  
 ![snap5](https://github.com/linknacro/Inspector-System/blob/master/previews/snap5.png)
